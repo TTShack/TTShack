@@ -10,3 +10,6 @@ def index():
 def about():
     return render_template("about.html")
 
+@app.route('/joinorg')
+def joinorg():
+    return render_template("joinorg.html")

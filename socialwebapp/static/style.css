@@ -2,8 +2,18 @@ h1{
     color: rgb(6, 14, 6);
     font-size: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 body{
-    background: cadetblue;
+    background: #FFE6E6;
+}
+
+button {
+    background: #0c1233;
+}
+
+h2{
+    text-align: left;
+    font-size: 70px;
 }
