@@ -20,7 +20,7 @@ This Is Our Team Project Idea
 ### To run this application locally:
 
 1. Clone the repository
-2. Make sure you have Python 3 (preferably recent updat) and flask installed
+2. Make sure you have Python 3 (preferably recent update) and flask installed
 3. Download Python 3: https://www.python.org/downloads/
 4. Navigate to python terminal
 5. Type ```pip install flask```
