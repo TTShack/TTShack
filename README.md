@@ -2,7 +2,7 @@
 
 This Is Our Team Project Idea
 
-###To run this application locally:
+### To run this application locally:
 
 1. Clone the repo
 2. Make sure you have Python 3.6 and flask installed
