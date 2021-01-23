@@ -5,8 +5,8 @@ This Is Our Team Project Idea
 ### To run this application locally:
 
 1. Clone the repo
-2. Make sure you have Python 3.6 and flask installed
-3. Download Python 3.6: https://www.python.org/downloads/release/python-360/
+2. Make sure you have Python 3 (preferably recent updat) and flask installed
+3. Download Python 3: https://www.python.org/downloads/
 4. navigation to python terminal
 5. type ```pip install flask```
 
