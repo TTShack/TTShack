@@ -1,5 +1,4 @@
 # TTShack
 
-
-This Is Our Team Project Idea:
+This Is Our Team Project Idea
 
