@@ -1,4 +1,4 @@
-# Act On It
+# Pander
 ## Motivation
 ---
 >  During these difficult times, people want to be help their community, but they're not sure how, so many are asking:
