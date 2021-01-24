@@ -3,7 +3,7 @@
 ---
 >  During these difficult times, people want to be help their community, but they're not sure how, so many are asking:
 > *How can I be involved in social activism?*
-> Our goal is to match users with an organization based on their interest to encourage social activism. This is help people living in Seattle start the process of looking for social activism organization locally and nationally.
+> Our goal is to match users with an organization based on their interest to encourage social activism. This can help people living in Seattle start the process of looking for social activism organization locally and nationally.
 ## What we created
 ---
 > We created a website that takes the user through a short quiz to gauge their interest in terms of social activism involvement and their interests. 
