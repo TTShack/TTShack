@@ -23,7 +23,7 @@
 
 ## Future goals
 ---
-> This webpage can become an up-to-date database for organizations with more features to better match users to social activism intitatives. The current focus is on local organizations in Seattle, but with a larger database it can be used in other cities to grow the user base.
+> This webpage can become an up-to-date database for organizations with more features to better match users to social activism initiatives. The current focus is on local organizations in Seattle, but with a larger database it can be used in other cities to grow the user base.
 
 ### To run this application locally:
 
