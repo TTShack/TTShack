@@ -22,5 +22,7 @@ def hsorgs():
 def corgs():
     return render_template("corgs.html")    
 
+if __name__ == "__main__":
+    app.run(debug=True)
 
     
