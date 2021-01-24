@@ -6,7 +6,7 @@
 > Our goal is to match users with an organization based on their interest to encourage social activism. This is help people living in Seattle start the process of looking for social activism organization locally and nationally.
 ## What we created
 ---
-> We created a website that takes the user through a short quiz to gage their interest in terms of social activism involvement and their interests. 
+> We created a website that takes the user through a short quiz to gauge their interest in terms of social activism involvement and their interests. 
 > Some group initiatives are:
   * BLM
   * Youth
@@ -23,6 +23,7 @@
 
 ## Future goals
 ---
+> This webpage can become an up-to-date database for organizations with more features to better match users to social activism intitatives. The current focus is on local organizations in Seattle, but with a larger database it can be used in other cities to grow the user base.
 
 ### To run this application locally:
 
