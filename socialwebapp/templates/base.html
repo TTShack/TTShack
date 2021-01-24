@@ -23,10 +23,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">Home</a>
+          <a class="nav-link active" aria-current="page" href="{{ url_for('index')}}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="{{ url_for('about')}}">About</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -34,9 +34,7 @@
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="#">Add Your Organization</a></li>
-            <li><a class="dropdown-item" href="#">Join An Organization</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Create An Organization</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('joinorg')}}">Join An Organization</a></li>
           </ul>
         </li>
       </ul>
@@ -48,7 +46,7 @@
   </div>
 </nav>
 
-
+<br/>
 {% block content %}
 
 {% endblock %}
@@ -63,7 +61,7 @@
     <div class="row">
       <!--Grid column-->
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-        <h5 class="text-uppercase">Footer Content</h5>
+        <h5 class="text-uppercase">How Can We Improve?</h5>
 
         <p>
 
@@ -76,20 +74,20 @@
 
       <!--Grid column-->
       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-        <h5 class="text-uppercase">Links</h5>
+        <h5 class="text-uppercase">Contact Us</h5>
 
         <ul class="list-unstyled mb-0">
           <li>
-            <a href="#!" class="text-dark">Link 1</a>
+            <a href="#!" class="text-dark">Email</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 2</a>
+            <a href="#!" class="text-dark">Our Newsleter</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 3</a>
+            <a href="#!" class="text-dark">Instagram</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 4</a>
+            <a href="#!" class="text-dark">Facebook</a>
           </li>
         </ul>
       </div>
@@ -97,20 +95,20 @@
 
       <!--Grid column-->
       <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-        <h5 class="text-uppercase mb-0">Links</h5>
+        <h5 class="text-uppercase mb-0">Help Out</h5>
 
         <ul class="list-unstyled">
           <li>
-            <a href="#!" class="text-dark">Link 1</a>
+            <a href="#!" class="text-dark">Donate</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 2</a>
+            <a href="#!" class="text-dark">Get Involved</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 3</a>
+            <a href="#!" class="text-dark">Hire A Speaker</a>
           </li>
           <li>
-            <a href="#!" class="text-dark">Link 4</a>
+            <a href="#!" class="text-dark">Sponsor</a>
           </li>
         </ul>
       </div>

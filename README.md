@@ -2,8 +2,6 @@
 
 This Is Our Team Project Idea
 
-
-=======
 ### To run this application locally:
 
 1. Clone the repository
@@ -29,3 +27,4 @@ flask run
 ```
 
 7. Navigate to the url provided in the terminal to see the web application
+
