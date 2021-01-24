@@ -8,9 +8,9 @@ This Is Our Team Project Idea
 2. Make sure you have Python 3 (preferably recent update) and flask installed
 3. Download Python 3: https://www.python.org/downloads/
 4. Navigate to python terminal
-5. Type ```pip install flask```
-
-6. Make sure you are in the \TTShack\socialwebapp directory and run the following commands in your terminal:
+5. Type ```git clone``` and paste the repository
+7. Make sure you are in the \TTShack\socialwebapp directory and run the following commands in your terminal:
+8. Type ```pip install flask```
 
 On Mac:
 ```
@@ -26,5 +26,5 @@ set FLASK_ENV=development
 flask run
 ```
 
-7. Navigate to the url provided in the terminal to see the web application
+9. Navigate to the url provided in the terminal to see the web application
 
